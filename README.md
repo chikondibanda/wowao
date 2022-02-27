@@ -1,2 +1,4 @@
-# wowao
-Wongani Watipaso Organisatio Website
+# wowa
+_Wongani Watipaso Organisation_
+
+[URL](https://chikondibanda.github.io/wowa/)
